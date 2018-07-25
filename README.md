@@ -1,24 +1,11 @@
-# README
+<h1>The Hacking Project - Semaine 4 - Mercredi</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2>Projet : The Hacking News</h2>
 
-Things you may want to cover:
+<p>Edité par 
+	<ul>
+		<li><strong>Gaëlle Gorgori</strong> : 06 62 31 97 81</li>
+		<li><strong>Thomas Fernandez</strong> : 06 58 88 68 09</li>
+		<li><strong>Mathilde Ray</strong> : 06 25 98 18 85</li>
+		</ul></p>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
